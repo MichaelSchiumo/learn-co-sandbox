@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/the_big_bang_theory'
+
+puts "Bazinga!"
